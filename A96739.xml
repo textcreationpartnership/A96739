@@ -1,0 +1,1510 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amygdala Britannica, almonds for parrets. A dish of stone-fruit, partly shel'd and partly unshel'd; which (if crack'd, pick'd and well digested) may be wholesome against those epidemick distempers of the brain, now predominant: and prevent some malignant diseases, likely to ensue. / Composed, heretofore, by a well-knowne moderne author; and, now published according to a copie, found written with his own hand.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96739</idno>
+            <idno type="STC">Wing W3141</idno>
+            <idno type="STC">Thomason E516_2</idno>
+            <idno type="STC">ESTC R206145</idno>
+            <idno type="EEBO-CITATION">99865323</idno>
+            <idno type="PROQUEST">99865323</idno>
+            <idno type="VID">164381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E516[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amygdala Britannica, almonds for parrets. A dish of stone-fruit, partly shel'd and partly unshel'd; which (if crack'd, pick'd and well digested) may be wholesome against those epidemick distempers of the brain, now predominant: and prevent some malignant diseases, likely to ensue. / Composed, heretofore, by a well-knowne moderne author; and, now published according to a copie, found written with his own hand.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno M DC XLVII.[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The Roman numeral imprint date is made with turned c's.</note>
+                  <note>In verse.</note>
+                  <note>Annotations on Thomason copy: "Geo: Wither"; "May 9th"; "London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164381:1" rendition="simple:additions"/>
+            <p>AMYGDALA BRITANNICA, Almonds for Parrets.</p>
+            <p>A Diſh of STONE-FRUIT, partly ſhel'd and partly unſhel'd; WHICH <hi>(Jf crack'd, pick'd, and well digeſted)</hi> May be wholſome againſt thoſe <hi>Epidemick Diſtempers</hi> of the Brain, now predominant; and prevent ſome Malignant Diſeaſes, likely to enſue.</p>
+            <p>Compoſed, heretofore, by a well-knowne <hi>Moderne Author;</hi> and, now publiſhed according to a <hi>Copie,</hi> found written with his own Hand.</p>
+            <q>Qui bene latuit, bene vixit.</q>
+            <q>
+               <bibl>
+                  <hi>MATTH. XIII. XIII, XIV, XV.</hi>
+               </bibl>
+               <p>Therefore ſpeak I to them in parables: becauſe they ſeeing, ſee not: and hearing, they hear not, neither do they underſtand.</p>
+               <p>And in them is fulfilled the Propheſie of Eſaias which ſaith, By hearing ye ſhall hear, and ſhall not underſtand: and ſeeing ye ſhall ſee, and ſhall not perceive.</p>
+               <p>For this peoples heart is waxed groſſe, and their eares are dull of hearing, and their eyes they have cloſed, left at any time they ſhould ſee with their eyes, and hear with their eares, and underſtand with their heart, and ſhould be converted, and healed.</p>
+            </q>
+            <p>Anno M.D.C.XLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:164381:2"/>
+            <pb n="1" facs="tcp:164381:2"/>
+            <head>AMYGDALA BRITANNICA, Almonds for Parrets.</head>
+            <lg>
+               <l>
+                  <hi>When</hi> Wiſemen <hi>found plain-dealing did offend,</hi>
+               </l>
+               <l>
+                  <hi>In</hi> Hieroglyphicks <hi>they their</hi> Muſings <hi>pen'd;</hi>
+               </l>
+               <l>
+                  <hi>And, to the</hi> meek, <hi>conveighed in a</hi> cloud,</l>
+               <l>
+                  <hi>The</hi> light, <hi>which was diſdained by the</hi> proud;</l>
+               <l>
+                  <hi>That, ſo, the</hi> ſcorner, <hi>hearing, might not</hi> heare,</l>
+               <l>
+                  <hi>Nor ſeeing,</hi> ſee, <hi>what plainly doth appeare:</hi>
+               </l>
+               <l>
+                  <hi>For, juſt it is, that they ſhould loſe their</hi> ſight,</l>
+               <l>
+                  <hi>Who would not ſee their</hi> ſafety, <hi>when they might.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>'Tis much obſerved, that this</hi> Generation</l>
+               <l>
+                  <hi>Hath taken up the</hi> Parrets <hi>inclination,</hi>
+               </l>
+               <l>
+                  <hi>Who loves, on</hi> ſhells, <hi>to exerciſe his beake,</hi>
+               </l>
+               <l>
+                  <hi>And,</hi> words not underſtood, <hi>delights to ſpeake:</hi>
+               </l>
+               <l>
+                  <hi>Wee, therefore, (ſince the labour may be ſpar'd)</hi>
+               </l>
+               <l>
+                  <hi>For private entertainment, have prepar'd</hi>
+               </l>
+               <l>
+                  <hi>This diſh of</hi> Stone-fruits; <hi>whereof, there are ſome,</hi>
+               </l>
+               <l>
+                  <hi>That yeeld a</hi> kernell, <hi>better then the</hi> plumb;</l>
+               <l>
+                  <hi>And, ſuch, that, if they well digeſted bee,</hi>
+               </l>
+               <l>
+                  <hi>Will cleare their</hi> eyes, <hi>who have a mind to ſee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here, till</hi> affaires <hi>are wholly miſ-transpos'd,</hi>
+               </l>
+               <l>
+                  <hi>You ſhall perceive, in</hi> Parables, <hi>diſclos'd,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon what</hi> actions, <hi>and</hi> contingencies,</l>
+               <l>
+                  <hi>The</hi> Fortune <hi>of this</hi> Britiſh Empire <hi>lies;</hi>
+               </l>
+               <l>
+                  <hi>And, by what</hi> ſymptomes, <hi>you may truly know,</hi>
+               </l>
+               <l>
+                  <hi>Which way the</hi> Publike Fate <hi>will ebb, or flow.</hi>
+               </l>
+               <l>
+                  <hi>Thus he conceives, who ſeriouſly hath weigh'd</hi>
+               </l>
+               <l>
+                  <hi>Thoſe things; &amp; in theſe words his thoughts arai'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>ALL things <hi>terreſtriall</hi> have their <hi>dates,</hi>
+               </l>
+               <l>
+                  <hi>Kings, Kingdoms,</hi> and the greateſt <hi>States;</hi>
+               </l>
+               <l>And, <hi>warnings</hi> do appeare, to, ſome,</l>
+               <l>Of all ſuch <hi>changes,</hi> ere they come;</l>
+               <l>Whereby, were timely means aſſaid,</l>
+               <l>
+                  <hi>Plagues</hi> might be ſcaped, or allaid:</l>
+               <l>And, peradventure, to that uſe,</l>
+               <l>This, which enſueth, may conduce.</l>
+            </lg>
+            <lg>
+               <l>The <hi>time</hi> drawes neere, and haſteth on,</l>
+               <l>In which <hi>ſtrange works</hi> will be begun;</l>
+               <l>And, <hi>proſecutions,</hi> whereon ſhall</l>
+               <l>Depend much future <hi>bliſſe</hi> or <hi>bale.</hi>
+               </l>
+               <l>If, to the <hi>left-hand,</hi> you decline,</l>
+               <l>Aſſur'd deſtruction they divine;</l>
+               <l>But if the <hi>right-hand courſe</hi> ye take,</l>
+               <l>This <hi>Iſland</hi> it will happy make.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> drawes near, in which you may,</l>
+               <l>As you ſhall pleaſe, the <hi>Cheſſe-men</hi> play:</l>
+               <l>Remove, confine, check, leave, or take,</l>
+               <l>Diſpoſe; depoſe, undoe, or make,</l>
+               <l>
+                  <hi>Pawne, Rook, Knight, Biſhop, Queen,</hi> or <hi>King,</hi>
+               </l>
+               <l>And, act your wills in every thing:</l>
+               <l>But, if that <hi>time</hi> let ſlip you ſhall,</l>
+               <l>For <hi>yeſterday,</hi> in vaine you call.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> drawes near, in which the <hi>Sun</hi>
+               </l>
+               <l>Will give more <hi>light,</hi> then he hath done:</l>
+               <l>Then, alſo, you ſhall ſee the <hi>Moon</hi>
+               </l>
+               <l>Shine brighter then the <hi>Sun at noon:</hi>
+               </l>
+               <l>And, many <hi>Stars,</hi> now ſeeming dull,</l>
+               <l>Give ſhadowes, like the <hi>Moon at full.</hi>
+               </l>
+               <l>Yet, then, ſhall ſome, who think they ſee,</l>
+               <l>Wrapt in <hi>Egyptian darkneſſe</hi> be.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> drawes near, when, with your <hi>blood,</hi>
+               </l>
+               <l>You ſhall preſerve the <hi>Vipers brood,</hi>
+               </l>
+               <l>And ſtarve your own; yet, fancy, than,</l>
+               <l>That, you have plaid the <hi>Pelican:</hi>
+               </l>
+               <l>But, when you think, the <hi>frozen Snakes</hi>
+               </l>
+               <l>Have chang'd their natures, for your ſakes,</l>
+               <l>They, in requitall, will contrive</l>
+               <l>Your miſchief, who did them revive.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> will come, when, they that <hi>wake,</hi>
+               </l>
+               <l>Shall <hi>dreame;</hi> and <hi>ſleepers</hi> undertake</l>
+               <l>The <hi>grand-Affaires:</hi> yet, few men know,</l>
+               <l>Which are the <hi>Dreamers</hi> of theſe two;</l>
+               <l>And, fewer care, by which of theſe</l>
+               <l>They guided be, ſo they have eaſe:</l>
+               <l>
+                  <pb n="2" facs="tcp:164381:3"/>But, an <hi>Alarum</hi> ſhall advance</l>
+               <l>Your drowzie ſpirits, from that <hi>trance.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> ſhall come, ere long, in which</l>
+               <l>
+                  <hi>Meer Beggars</hi> ſhall grow ſooneſt <hi>rich;</hi>
+               </l>
+               <l>The <hi>rich</hi> with wants be pinched more,</l>
+               <l>Then ſuch as go from door to doore;</l>
+               <l>The <hi>honourable</hi> by the <hi>baſe</hi>
+               </l>
+               <l>Shall be deſpighted, to their face;</l>
+               <l>The <hi>truth</hi> defamed be with <hi>lies;</hi>
+               </l>
+               <l>The <hi>foole</hi> preferr'd before the <hi>wiſe;</hi>
+               </l>
+               <l>And he that fighteh to be <hi>free,</hi>
+               </l>
+               <l>By <hi>conquering,</hi> inſlav'd ſhall be.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Time</hi> ſhall come, when they that would</l>
+               <l>Diſcredit <hi>truths,</hi> which were foretold,</l>
+               <l>Of ev'ry <hi>newes</hi> will ſtand in feare,</l>
+               <l>And, credit ev'ry lie they heare;</l>
+               <l>Till they, by penance done, have paid</l>
+               <l>For ev'ry <hi>truth</hi> they have gainſaid.</l>
+               <l>Then, they who have expected <hi>Fiſh,</hi>
+               </l>
+               <l>Shall finde a <hi>Scorpion</hi> in their diſh:</l>
+               <l>The <hi>children</hi> ſhall have <hi>ſtones</hi> for bread,</l>
+               <l>And, ſtarved be, whilſt <hi>dogs</hi> are fed:</l>
+               <l>Then alſo ſhall each <hi>work</hi> you do,</l>
+               <l>Ere it be finiſh'd, make you two;</l>
+               <l>And, render all, when much is done,</l>
+               <l>Far worſe, then when the <hi>Plague</hi> begun.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> drawes neere, in which your <hi>peace</hi>
+               </l>
+               <l>Shall make your <hi>quarrells</hi> more increaſe:</l>
+               <l>Then ſhall you by <hi>falſe-brethren</hi> loſe</l>
+               <l>More, then by all your <hi>open-foes:</hi>
+               </l>
+               <l>Then <hi>one-mans</hi> hate ſhall rob of more</l>
+               <l>Then <hi>five times twenty</hi> can reſtore:</l>
+               <l>
+                  <hi>Three men</hi> ſhall act more miſchiefs here,</l>
+               <l>Then <hi>three great Kingdoms</hi> well can beare:</l>
+               <l>And then ſhall they be better priz'd,</l>
+               <l>Whoſe <hi>counſells</hi> have been long deſpis'd.</l>
+            </lg>
+            <lg>
+               <l>The <hi>time</hi> is drawing near, when wee</l>
+               <l>Our own <hi>Antipodes</hi> ſhall bee:</l>
+               <l>When our moſt dangerous diſeaſe</l>
+               <l>Shall be the <hi>Scribes</hi> and <hi>Phariſes:</hi>
+               </l>
+               <l>When <hi>Seamen</hi> ſhall uſurp the <hi>whip;</hi>
+               </l>
+               <l>
+                  <hi>Plowmen</hi> preſume to guide the <hi>ſhip;</hi>
+               </l>
+               <l>The <hi>children</hi> frequently begin,</l>
+               <l>To teach their <hi>grandams</hi> how to ſpin:</l>
+               <l>And, then ſhall that, which was a <hi>crime,</hi>
+               </l>
+               <l>Be deem'd the vertue of the time;</l>
+               <l>And, that, <hi>impietie</hi> be thought,</l>
+               <l>Which hath, for <hi>ſanctitie,</hi> been taught.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> will come, in which the Flocks,</l>
+               <l>Shall ſee their <hi>Shepheard</hi> play the <hi>Fox,</hi>
+               </l>
+               <l>And range and ramble up and downe,</l>
+               <l>Till he into a <hi>wolf</hi> be growne;</l>
+               <l>Then, they that hounds and ſleugh-dogs keep,</l>
+               <l>Shall hunt him, till he growes a <hi>Sheep;</hi>
+               </l>
+               <l>And, then, if what he ſeemes, he be</l>
+               <l>He ſhall be ſafe; and, ſo, ſhall we.</l>
+            </lg>
+            <lg>
+               <l>A <hi>time</hi> will come, when ſee you ſhall</l>
+               <l>
+                  <hi>Toads</hi> fly aloft, and <hi>Eagles</hi> crawle;</l>
+               <l>
+                  <hi>Wolves</hi> walke abroad in <hi>humane ſhapes;</hi>
+               </l>
+               <l>
+                  <hi>Men,</hi> turne to <hi>aſſes, hogs,</hi> and <hi>apes:</hi>
+               </l>
+               <l>But, when that curſed time is come,</l>
+               <l>Well's he that is both <hi>deafe,</hi> and <hi>dumbe;</hi>
+               </l>
+               <l>That nothing ſpeaketh, nothing heares,</l>
+               <l>And, neither <hi>hopes, deſires,</hi> nor <hi>feares.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>time</hi> will come when you ſhall ſee</l>
+               <l>A <hi>Headleſſe-body</hi> active bee,</l>
+               <l>And, many actions full of dread,</l>
+               <l>Performed by a <hi>Trunkleſſe-head;</hi>
+               </l>
+               <l>Which Head, and Body, being brought</l>
+               <l>To knit together, as they ought,</l>
+               <l>Might prove to be, in time to come,</l>
+               <l>The joy, and awe, of <hi>Chiriſtendome.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, e're ſuch happie daies be ſeen,</l>
+               <l>There will ſome changes intervene</l>
+               <l>Our hopes and them, to make or marre</l>
+               <l>the ſequele, as they mannag'd are;</l>
+               <l>And, therefore, that diſcerne you may</l>
+               <l>When theſe approach; and, which are they;</l>
+               <l>And, what to do, when they are knowne,</l>
+               <l>Here, they in eaſie <hi>types</hi> are ſhowne;</l>
+               <l>Or, by thoſe <hi>tokens,</hi> which fore-hint,</l>
+               <l>What you ſhould labour to prevent.</l>
+            </lg>
+            <lg>
+               <l>When, you ſee many things effected,</l>
+               <l>Which were nor feared nor ſuſpected;</l>
+               <l>The <hi>Mountains</hi> ſink, the <hi>Valleyes</hi> clime;</l>
+               <l>
+                  <hi>Stars</hi> riſe, and ſet, before their time;</l>
+               <l>Groſſe <hi>Meteors</hi> from the mud exhald,</l>
+               <l>To higheſt <hi>Spheres,</hi> and <hi>Planets</hi> call'd;</l>
+               <l>
+                  <pb n="3" facs="tcp:164381:3"/>And, <hi>utter darkneſſe</hi> termed <hi>light;</hi>
+               </l>
+               <l>Then, bid your happy daies, goodnight.</l>
+            </lg>
+            <lg>
+               <l>When, you embrewed, in their blood,</l>
+               <l>Behold <hi>three Lions of one brood;</hi>
+               </l>
+               <l>If, then, a <hi>fourth</hi> ſhall interpoſe,</l>
+               <l>It will but more increaſe their woes;</l>
+               <l>Till but <hi>one head,</hi> poſſeſſe they ſhall,</l>
+               <l>And, but <hi>one heart,</hi> among them all.</l>
+               <l>Which, whoſoe're to paſſe can bring.</l>
+               <l>Shall be the <hi>darling</hi> of a <hi>King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>His prickles, when the <hi>Thiſtle</hi> ſhowes,</l>
+               <l>Whithin the borders of the <hi>Roſe,</hi>
+               </l>
+               <l>If, with the <hi>Flower-de-Luce</hi> it cloſe,</l>
+               <l>Deſigning what the <hi>Orange</hi> does,</l>
+               <l>The ſtile of <hi>bleſſed</hi> it ſhall loſe;</l>
+               <l>Yea, <hi>curſed be,</hi> where e're it growes;</l>
+               <l>And, by ſuch faithleſneſſe, expoſe</l>
+               <l>If ſelfe, and others, to their Foes.</l>
+            </lg>
+            <lg>
+               <l>But, being, only, for a time,</l>
+               <l>(To cure the <hi>Feavers</hi> or that <hi>Clyme)</hi>
+               </l>
+               <l>Tranſplanted South-ward; if it ſpread,</l>
+               <l>And root, no further then the <hi>bed,</hi>
+               </l>
+               <l>Where, by the <hi>Gardner,</hi> it was ſet,</l>
+               <l>To cure us of our <hi>Ague-fit;</hi>
+               </l>
+               <l>It, of our <hi>Garden,</hi> ſhall be free,</l>
+               <l>And, call'd the <hi>bleſſed-Thiſtle</hi> be.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Charles his waine,</hi> begins to reel,</l>
+               <l>And, retrograde ſhall ſeem to wheel;</l>
+               <l>If, rambling forth, the <hi>Driver</hi> be.</l>
+               <l>Without his <hi>Orb,</hi> but <hi>one degree;</hi>
+               </l>
+               <l>What hope ſoe're he hath of help,</l>
+               <l>From <hi>Lioneſſe,</hi> or <hi>Lions-whelp,</hi>
+               </l>
+               <l>'Twill be a hundred unto one</l>
+               <l>If he return, when he is gone.</l>
+            </lg>
+            <lg>
+               <l>When from <hi>one hand,</hi> let ſlip, you view.</l>
+               <l>
+                  <hi>Two Dogs,</hi> one <hi>Leopard</hi> to purſue;</l>
+               <l>Though ev'ry paſſage you beſet</l>
+               <l>And ride, and run untill you ſweat,</l>
+               <l>The <hi>Game</hi> will at the laſt get free,</l>
+               <l>If <hi>Patch,</hi> one of your <hi>Gray-hounds</hi> be;</l>
+               <l>Or, if you think, to take the <hi>beaſt,</hi>
+               </l>
+               <l>By <hi>Huntſmen,</hi> who are ſuch profeſt.</l>
+            </lg>
+            <lg>
+               <l>When Britaines <hi>Gerion</hi> you ſhall ſee,</l>
+               <l>With <hi>Single head,</hi> on <hi>bodies three,</hi>
+               </l>
+               <l>Put forth his face, in a diſguize,</l>
+               <l>(Undecently betwixt his thighes)</l>
+               <l>Be warie then, and take great heed,</l>
+               <l>In your affaires, how yee proceed;</l>
+               <l>Leaſt, you be laid in <hi>little eaſe,</hi>
+               </l>
+               <l>Betwixt the <hi>French</hi> and Kings diſeaſe.</l>
+            </lg>
+            <lg>
+               <l>When frequently, obſerve you ſhall,</l>
+               <l>S. <hi>Peter</hi> rob'd, to pay S. <hi>Paul;</hi>
+               </l>
+               <l>When <hi>Butterflies, Silk-wormes</hi> out-brave;</l>
+               <l>When <hi>Maggots</hi> waſte, what <hi>Ants</hi> did ſave,</l>
+               <l>And, <hi>waſps,</hi> and <hi>drones,</hi> and <hi>hornets</hi> drive</l>
+               <l>Your <hi>Bees,</hi> to ſeek a <hi>Forraign-hive;</hi>
+               </l>
+               <l>Then, fly to <hi>providence-divine,</hi>
+               </l>
+               <l>And, do, as that ſhall you incline.</l>
+            </lg>
+            <lg>
+               <l>When, you ſee breaking <hi>Stones,</hi> and <hi>glaſſes,</hi>
+               </l>
+               <l>For zeale in true <hi>Religion</hi> paſſes:</l>
+               <l>Aſwell the <hi>Clergie,</hi> as the <hi>Lay,</hi>
+               </l>
+               <l>Learne, how at <hi>faſt,</hi> and <hi>looſe,</hi> to play:</l>
+               <l>
+                  <hi>Hermaphrodites</hi> begot with child;</l>
+               <l>
+                  <hi>Herod,</hi> and <hi>Pilate,</hi> reconcil'd:</l>
+               <l>The <hi>Moraliſt,</hi> his <hi>light</hi> abuſe;</l>
+               <l>And, <hi>Chritſtians</hi> turning <hi>Semi-Jewes;</hi>
+               </l>
+               <l>You may, where e're you go, or ride,</l>
+               <l>Have <hi>Ignis fatuus,</hi> for your guide.</l>
+            </lg>
+            <lg>
+               <l>When, in this <hi>Iſle</hi> obſerve you ſhall</l>
+               <l>The <hi>tenth part</hi> of great <hi>Babel</hi> fall,</l>
+               <l>And , <hi>Reformation,</hi> fully made</l>
+               <l>Of them, and their <hi>myſterious trade,</hi>
+               </l>
+               <l>Who merchandize moſt holy things;</l>
+               <l>Then GOD to ſpeedy vengeance brings,</l>
+               <l>With <hi>Gog,</hi> with <hi>Magog,</hi> and the <hi>Whore,</hi>
+               </l>
+               <l>The <hi>Beaſt,</hi> which Nations, yet, adore.</l>
+            </lg>
+            <lg>
+               <l>When you perceive the <hi>Common-Creed,</hi>
+               </l>
+               <l>Renounc'd; and, <hi>whimſeyes</hi> in it ſteed;</l>
+               <l>The <hi>words,</hi> which our chiefe <hi>Rabbi</hi> taught,</l>
+               <l>Deſpis'd, or out of practice brought;</l>
+               <l>And, ſome abuſe the <hi>God-head,</hi> more</l>
+               <l>Then all the <hi>Gentiles heretofore;</hi>
+               </l>
+               <l>They, who his nature do miſtake,</l>
+               <l>Shall then grow like the <hi>God</hi> they make;</l>
+               <l>And, think it, when they do oppreſſe,</l>
+               <l>But <hi>ſanctity,</hi> and <hi>righteouſneſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When, they, that are of <hi>Babel</hi> ſhie,</l>
+               <l>Shall further into <hi>Babell</hi> flie;</l>
+               <pb n="2" facs="tcp:164381:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:164381:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="4" facs="tcp:164381:5"/>When, they, who Superſtition ſhun,</l>
+               <l>To greater Superſtitions run,</l>
+               <l>And, to eſcape <hi>prophaneneſſe,</hi> ſhall</l>
+               <l>Into meer <hi>Atheiſme</hi> fall;</l>
+               <l>Then, will, at full, thoſe plagues appeare,</l>
+               <l>Which, now, are but beginning, here;</l>
+               <l>And, they, who live thoſe daies to know,</l>
+               <l>Will thinke of him, who told you ſo.</l>
+            </lg>
+            <lg>
+               <l>When, in this <hi>Iſle,</hi> the people ſees</l>
+               <l>A confus'd <hi>heptarchie</hi> of <hi>Pees,</hi>
+               </l>
+               <l>Their <hi>peace,</hi> diſturbing, by <hi>diſtraction;</hi>
+               </l>
+               <l>Their <hi>power,</hi> become a <hi>three-ſquare faction</hi>
+               </l>
+               <l>Of <hi>equall ſides,</hi> and, each inclin'd</l>
+               <l>To what, it fancy hath <hi>deſign'd;</hi>
+               </l>
+               <l>And, few regarding <hi>Common-good:</hi>
+               </l>
+               <l>Then, ſhall the <hi>Moon</hi> be turn'd to blood,</l>
+               <l>Unleſſe, you can by Chymiſtrie,</l>
+               <l>The <hi>Sulphure, Salt,</hi> and <hi>Mercurie</hi>
+               </l>
+               <l>So temper; that produce it ſhall</l>
+               <l>The true <hi>Elixar</hi> from them all.</l>
+            </lg>
+            <lg>
+               <l>When, loud the <hi>Britiſh waters</hi> roare,</l>
+               <l>And, flow up to the <hi>Senate</hi> doore,</l>
+               <l>If, then, the <hi>wind</hi> ſhall alſo blow,</l>
+               <l>To make their ſwellings higher grow:</l>
+               <l>Then whether you to them give way,</l>
+               <l>Or, ſeek to ſtop them, by a <hi>bay,</hi>
+               </l>
+               <l>In vain, to curb them, ſtrive you ſhall,</l>
+               <l>Without the <hi>Balſome-box,</hi> and <hi>ſcale;</hi>
+               </l>
+               <l>Though you <hi>diverſions</hi> make (in hope</l>
+               <l>To do it) and, caſt <hi>Mountaines</hi> up.</l>
+            </lg>
+            <lg>
+               <l>When, you obſerve the <hi>Civil-ſword,</hi>
+               </l>
+               <l>Uſurp the power of the <hi>word;</hi>
+               </l>
+               <l>And, (where declining <hi>Babel</hi> ſtood)</l>
+               <l>Men, laying <hi>Sions</hi> walls, in blood;</l>
+               <l>Then, ſome, who for the <hi>Lamb</hi> profeſſe,</l>
+               <l>The <hi>Dragons</hi> Kingdome will increaſe,</l>
+               <l>Untill, they ſhall be better taught</l>
+               <l>How, <hi>living Temples</hi> ſhould be wrought.</l>
+            </lg>
+            <lg>
+               <l>When, you have pull'd the <hi>great Popes</hi> down,</l>
+               <l>And, ſet up one in every Town;</l>
+               <l>When, in each houſe, a <hi>Church</hi> ſhall be,</l>
+               <l>And, in one <hi>houſe,</hi> a part of three;</l>
+               <l>VVhen, one ſhall tell you <hi>Chriſt,</hi> is here;</l>
+               <l>Another ſay, loe, he is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere;</l>
+               <l>More comfort they ſhall then receive,</l>
+               <l>VVho <hi>love;</hi> then they, who theſe <hi>believe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVhen, onely, <hi>number'd out,</hi> you ſee.</l>
+               <l>VVhat, <hi>weigh'd,</hi> and <hi>meaſur'd,</hi> too, ſhould bee;</l>
+               <l>When all, that you ſhall <hi>ſave,</hi> or <hi>loſe,</hi>
+               </l>
+               <l>Dependeth on their <hi>yea's,</hi> and <hi>no's,</hi>
+               </l>
+               <l>VVho, peradventure, may intend,</l>
+               <l>
+                  <hi>Selfe-will, ſelfe-profit,</hi> or <hi>ſelfe-end;</hi>
+               </l>
+               <l>Then, <hi>ſelfe-deniall</hi> muſt proceed</l>
+               <l>From <hi>words,</hi> into a <hi>reall deed;</hi>
+               </l>
+               <l>And, more regardfully you muſt</l>
+               <l>Conſider, whom you ought to truſt;</l>
+               <l>Leaſt, e're this <hi>tragedy</hi> be plai'd,</l>
+               <l>You, and your Freedomes be betrai'd.</l>
+            </lg>
+            <lg>
+               <l>VVhen, cloth'd like <hi>lambs,</hi> the wolves appear,</l>
+               <l>VVhen, <hi>Foxes</hi> preach, and <hi>Goſlings</hi> hear,</l>
+               <l>VVhen, <hi>Hawkes</hi> to guard the <hi>Doves</hi> are choſe,</l>
+               <l>VVhen, <hi>wounds</hi> muſt cured be with <hi>blowes,</hi>
+               </l>
+               <l>And, when your <hi>frogs</hi> and <hi>mice</hi> renew</l>
+               <l>Their fooliſh warre; Then, will enſue</l>
+               <l>VVhat hath by <hi>wiſemen</hi> been fore-told,</l>
+               <l>In <hi>tales</hi> and <hi>parables,</hi> of old;</l>
+               <l>Unleſſe, your <hi>keepers</hi> eye affrights</l>
+               <l>The <hi>Romiſh Eagles,</hi> and the <hi>Kites.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When, you perceive the <hi>Harper</hi> play</l>
+               <l>His <hi>Harpſtrings,</hi> and his <hi>Harp</hi> away;</l>
+               <l>The <hi>Miter,</hi> hazzarding the <hi>Crowne;</hi>
+               </l>
+               <l>The <hi>ſword,</hi> inſtructing of the <hi>Gowne;</hi>
+               </l>
+               <l>The <hi>members,</hi> that in darkneſſe be,</l>
+               <l>Informing, how the <hi>Eyes</hi> ſhould ſee;</l>
+               <l>And, <hi>hands,</hi> and <hi>feet,</hi> aſpiring to</l>
+               <l>That, which the <hi>Head,</hi> and <hi>Heart</hi> ſhould do;</l>
+               <l>Then, you, a while, their lots muſt ſhare,</l>
+               <l>Who, in their <hi>guts,</hi> their <hi>braines</hi> do beare.</l>
+            </lg>
+            <lg>
+               <l>When, you ſhall ſee <hi>Death</hi> richly clad,</l>
+               <l>With what, the <hi>living</hi> ſhould have had;</l>
+               <l>And, then, behold a <hi>Church</hi> beſpread</l>
+               <l>With rags, and reliques of the <hi>dead,</hi>
+               </l>
+               <l>Expoſing that to open ſcorn,</l>
+               <l>Which was in <hi>publike triumph</hi> born:</l>
+               <l>If, then, with ſeriouſneſſe you heed</l>
+               <l>The ſimple <hi>doer,</hi> and the <hi>deed,</hi>
+               </l>
+               <l>It ſhall occaſion ſhame to ſome,</l>
+               <l>Who thought, much honour'd, to become:</l>
+               <l>
+                  <pb n="5" facs="tcp:164381:5"/>And, let a juſt occaſion in</l>
+               <l>To rake up, what might hid have bin.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Blocks,</hi> and <hi>Stones,</hi> offence ſhall take,]</l>
+               <l>And <hi>riots</hi> in your <hi>Cities</hi> make;</l>
+               <l>Beware: for, if heed be not took,</l>
+               <l>A <hi>ſparke</hi> ſhall caſually be ſtrook,</l>
+               <l>From ſome <hi>rough flint,</hi> which will devour</l>
+               <l>Your <hi>wealth,</hi> your <hi>glory,</hi> and your <hi>power;</hi>
+               </l>
+               <l>That <hi>future times</hi> may not deſpiſe</l>
+               <l>The wrath, and ſpleen, of <hi>Ants</hi> and <hi>Flies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When you ſee <hi>Gallants</hi> take their <hi>vies,</hi>
+               </l>
+               <l>As if they would ore-skip the <hi>skies,</hi>
+               </l>
+               <l>Or, give the <hi>Sun,</hi> and <hi>Moon,</hi> a Law,</l>
+               <l>Yet, then, ſcarce over-leap a <hi>ſtraw;</hi>
+               </l>
+               <l>Or, when <hi>conceptions-mountainous</hi>
+               </l>
+               <l>Shall bring forth nothing, but a <hi>mouſe,</hi>
+               </l>
+               <l>(After great <hi>throes,</hi> 'twixt hopes, and feares,</l>
+               <l>Suſtained, by you, many yeares)</l>
+               <l>Then, your declining <hi>state</hi> deplore,</l>
+               <l>And, take a <hi>dos</hi> of <hi>Hellebore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When, here, you ſhall re-act the ſin</l>
+               <l>Of <hi>Pharoah,</hi> and of <hi>Benjamin;</hi>
+               </l>
+               <l>Keep <hi>Jezabels,</hi> and <hi>Ahabs</hi> Faſt;</l>
+               <l>In <hi>Jehu</hi>'s mold <hi>Reformers</hi> caſt;</l>
+               <l>Give honour unto <hi>Golden Calves,</hi>
+               </l>
+               <l>And <hi>Idols,</hi> ſetting up themselves;</l>
+               <l>You ſhall but bring, to quench your <hi>flame,</hi>
+               </l>
+               <l>That <hi>oyle,</hi> which will increaſe the ſame:</l>
+               <l>And, GOD, your <hi>Offrings</hi> will deſpiſe;</l>
+               <l>Till <hi>Juſtice</hi> be your <hi>ſacrifice.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When <hi>Out-lawes</hi> ſhall themſelves propoſe</l>
+               <l>For your <hi>Law-givers</hi> to be choſe;</l>
+               <l>
+                  <hi>Felons,</hi> grow <hi>makers</hi> of your <hi>Lawes;</hi>
+               </l>
+               <l>
+                  <hi>Effects,</hi> producers of their <hi>Cauſe;</hi>
+               </l>
+               <l>Th' <hi>accuſed,</hi> his own <hi>Judge</hi> become;</l>
+               <l>The <hi>thief,</hi> pronounce the <hi>true-mans</hi> doome;</l>
+               <l>Your <hi>greateſt foes,</hi> turn <hi>ſeeming-friends;</hi>
+               </l>
+               <l>And, <hi>greateſt wrongs</hi> get <hi>leaſt amends:</hi>
+               </l>
+               <l>Then, to no <hi>earthly hopes</hi> aſpire;</l>
+               <l>But, unto GOD, alone, retire.</l>
+            </lg>
+            <lg>
+               <l>When, moſt the <hi>Charmers-voice</hi> ſhall heare,</l>
+               <l>And, like <hi>deafe Adders,</hi> ſtop their eare;</l>
+               <l>When, they who ſit in <hi>Judgment,</hi> be</l>
+               <l>Inexorable, more then <hi>He</hi>
+               </l>
+               <l>Who did both GOD, and <hi>Man,</hi> deſpiſe;</l>
+               <l>(And, ſleight ev'n <hi>Importunities,</hi>
+               </l>
+               <l>Continu'd without intermiſſion)</l>
+               <l>Then, feare, O <hi>Britain!</hi> thy condition.</l>
+            </lg>
+            <lg>
+               <l>When, moſt that <hi>heare,</hi> and <hi>pray,</hi> and <hi>faſt,</hi>
+               </l>
+               <l>No ſweetneſſe, in thoſe <hi>duties</hi> taſt;</l>
+               <l>But, formally, in them go on,</l>
+               <l>Depending upon what is <hi>done;</hi>
+               </l>
+               <l>And, others, ſo beleeving grow,</l>
+               <l>As, that, they no good works will do:</l>
+               <l>Or, when ſmall difference ſhall appeare</l>
+               <l>'Twixt <hi>perſons, times,</hi> or <hi>places,</hi> here;</l>
+               <l>And, thoſe <hi>Ideas,</hi> men embrace,</l>
+               <l>Which have nor <hi>body, forme,</hi> nor <hi>face;</hi>
+               </l>
+               <l>And, run <hi>vagaries</hi> without bound,</l>
+               <l>As if, no <hi>medium's</hi> could be found,</l>
+               <l>'Twixt two extreames: Ev'n then, ſhall they</l>
+               <l>Who love the <hi>light,</hi> enjoy the <hi>day;</hi>
+               </l>
+               <l>And, then, ſhall look'd for be, or ſome,</l>
+               <l>A <hi>Kingdome,</hi> that will never come.</l>
+            </lg>
+            <lg>
+               <l>When, in your <hi>City-paramount,</hi>
+               </l>
+               <l>This <hi>Realm</hi> is called to Account,</l>
+               <l>(And, they, who do receive and pay,</l>
+               <l>Forſake the old <hi>Exchequer</hi> way)</l>
+               <l>If thoſe may then their triall ſhun,</l>
+               <l>By whom, the greateſt wrongs are done,</l>
+               <l>Your <hi>hypocrites</hi> will ſoon appeare</l>
+               <l>So many, and ſo powerfull, here,</l>
+               <l>That, GOD himſelf th' <hi>Accompts</hi> will take,</l>
+               <l>Which they unwilling are to make.</l>
+            </lg>
+            <lg>
+               <l>When <hi>folly, avarice,</hi> and <hi>pride,</hi>
+               </l>
+               <l>Upon the <hi>publike-Aſſe</hi> ſhall ride,</l>
+               <l>And, labour to ſubject the <hi>State</hi>
+               </l>
+               <l>Unto that baſe <hi>Triumvirate;</hi>
+               </l>
+               <l>Such <hi>juſtice, piety,</hi> and <hi>knowledge,</hi>
+               </l>
+               <l>Will, then, proceed from <hi>Gotham-Colledge,</hi>
+               </l>
+               <l>That, <hi>blinde-men,</hi> plainly ſhall perceive,</l>
+               <l>What, they, who <hi>ſee,</hi> will not <hi>believe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, they who now delight in <hi>lies,</hi>
+               </l>
+               <l>(Which their own malice did deviſe)</l>
+               <l>And, thoſe predictions do deride,</l>
+               <l>Which they ſee daily <hi>verifi'd;</hi>
+               </l>
+               <l>Shall view with <hi>ſhame,</hi> and feel with <hi>feare,</hi>
+               </l>
+               <l>Thoſe <hi>truths,</hi> of which they would not heare;</l>
+               <l>
+                  <pb n="6" facs="tcp:164381:6"/>And, they who, their deſpights have borne,</l>
+               <l>Shall laugh their pride, and hate, to ſcorne.</l>
+            </lg>
+            <lg>
+               <l>When, you hear thouſands make their mones,</l>
+               <l>And prayers, unto <hi>Blocks</hi> and <hi>Stones;</hi>
+               </l>
+               <l>Poore <hi>Suiters,</hi> proſecuting <hi>Cauſes</hi>
+               </l>
+               <l>In <hi>circles, labyrinths,</hi> and <hi>mazes,</hi>
+               </l>
+               <l>Till ſcarce a neighbour, friend, or brother,</l>
+               <l>Believes, or loveth one the other;</l>
+               <l>Or, till they have nor houſe, nor bread,</l>
+               <l>Who, for the <hi>Kingdomes-cauſe,</hi> have bled;</l>
+               <l>Then, you fulfilled ſhall behold</l>
+               <l>So much, that, more needs not be told.</l>
+            </lg>
+            <lg>
+               <l>When, you ſhall heare your <hi>Pipers</hi> play</l>
+               <l>Till none will either <hi>dance,</hi> or <hi>pay;</hi>
+               </l>
+               <l>Or, till among you doth begin</l>
+               <l>A ſecond bloodie <hi>matachin;</hi>
+               </l>
+               <l>Then, will <hi>clean hands,</hi> and <hi>honeſt hearts,</hi>
+               </l>
+               <l>Beſteed you more, then <hi>Iriſh</hi> darts;</l>
+               <l>Secure you better from your foes,</l>
+               <l>Then guards of guns, of bils or bowes;</l>
+               <l>And, then, will they, whom Pride doth ſcorne,</l>
+               <l>More happie be, then <hi>Princes-borne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When, you moſt ſleight what <hi>Tel-troth</hi> ſaith;</l>
+               <l>When, you have prov'd the <hi>Punick-faith;</hi>
+               </l>
+               <l>When, you ſee thoſe, who have miſdone,</l>
+               <l>In ſpight of Councell, ſtill, go on,</l>
+               <l>To proſecute their <hi>wild deſignes;</hi>
+               </l>
+               <l>Then take you heed of thoſe <hi>Divines,</hi>
+               </l>
+               <l>Who, to effect their carnall end,</l>
+               <l>For GOD and CHRIST, will much pretend:</l>
+               <l>And, that, you no way do abuſe</l>
+               <l>The <hi>Flat-caps,</hi> or the <hi>Clouted-ſhooes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When, they who greateſt <hi>Traytors</hi> are,</l>
+               <l>With <hi>Patriots, reward</hi> ſhall ſhare,</l>
+               <l>And, be with large allowance fed,</l>
+               <l>VVhilſt, your <hi>beſt ſervants,</hi> ſcarce have bread:</l>
+               <l>VVhen <hi>doing juſtice,</hi> ſhall be thought</l>
+               <l>
+                  <hi>Ill manners;</hi> and, they men untaught,</l>
+               <l>VVho are ſo daring, to afford</l>
+               <l>A <hi>poor man,</hi> right againſt a Lord;</l>
+               <l>Then, ſhall men purchaſe <hi>land,</hi> and <hi>fee,</hi>
+               </l>
+               <l>For little price; which deere will be,</l>
+               <l>To ev'ry purchaſer, unleſſe</l>
+               <l>By <hi>piety,</hi> and <hi>righteouſneſſe,</hi>
+               </l>
+               <l>The <hi>ſale</hi> be ſanctifi'd; and you</l>
+               <l>Give both to GOD, and <hi>men,</hi> their due.</l>
+            </lg>
+            <lg>
+               <l>VVhen your <hi>Reformers,</hi> ſhall begin</l>
+               <l>To out-doe thoſe men in their ſin,</l>
+               <l>VVhom to reforme they did pretend;</l>
+               <l>And, like <hi>ſowre ale in ſummer, mend:</hi>
+               </l>
+               <l>When, they the <hi>Rule</hi> ſhall miſapply;</l>
+               <l>And give by <hi>deeds,</hi> their <hi>words</hi> the lie;</l>
+               <l>Till, that, be mentioned with ſcorne,</l>
+               <l>VVhich is your <hi>praiſe,</hi> and <hi>ſaving-horne,</hi>
+               </l>
+               <l>Then, <hi>Jehu's</hi> temper will undoe you,</l>
+               <l>Unleſſe you can invite unto you</l>
+               <l>
+                  <hi>Eliah's</hi> ſpirit duplifi'd</l>
+               <l>On ſome <hi>Eliſha,</hi> to provide</l>
+               <l>A ſpeedy cure, for that <hi>diſeaſe,</hi>
+               </l>
+               <l>VVhich on your <hi>Vitall-parts</hi> will ſeize.</l>
+            </lg>
+            <lg>
+               <l>When, men and women bluſhleſſe grow</l>
+               <l>In filthineſſe; and act it ſo,</l>
+               <l>As if, a <hi>Stallion</hi> to be knowne,</l>
+               <l>A Princely quality were growne;</l>
+               <l>Or, when your <hi>Ladies</hi> do appeare</l>
+               <l>(As if old heath'niſh <hi>Rome</hi> were here)</l>
+               <l>By Coachfulls, with a brazen face,</l>
+               <l>To ſee men run a naked-race:</l>
+               <l>And, when <hi>ſin</hi> to a rankneſſe ſprings,</l>
+               <l>Beyond the reach of <hi>libellings;</hi>
+               </l>
+               <l>And, <hi>libellings</hi> ſo common bee,</l>
+               <l>That none ſhall from their dirt be free,</l>
+               <l>Though ne're ſo innocent (but thoſe</l>
+               <l>Whom no man <hi>hates, envies, or knowes)</hi>
+               </l>
+               <l>Then, look for that which will enſue</l>
+               <l>Such <hi>impudence;</hi> if God be true.</l>
+            </lg>
+            <lg>
+               <l>When, men ſhall gen'rally <hi>confeſſe</hi>
+               </l>
+               <l>Their <hi>folly,</hi> and their <hi>wickedneſſe;</hi>
+               </l>
+               <l>Yet, <hi>act,</hi> as if there neither were</l>
+               <l>Among them, <hi>conſcience, wit,</hi> or <hi>feare:</hi>
+               </l>
+               <l>When, they ſhall talke as if they had</l>
+               <l>Some <hi>braines;</hi> yet, do, as they were mad;</l>
+               <l>And, nor by <hi>reaſon,</hi> nor by <hi>noiſe,</hi>
+               </l>
+               <l>By <hi>humane,</hi> or by <hi>heav'nly-voice,</hi>
+               </l>
+               <l>By beeing <hi>praiſed,</hi> or <hi>reprov'd,</hi>
+               </l>
+               <l>By <hi>judgements,</hi> or by <hi>mercies</hi> mov'd:</l>
+               <l>Then, look for ſo much <hi>ſword,</hi> and <hi>fire,</hi>
+               </l>
+               <l>As ſuch a temper doth require.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:164381:6"/>
+               <l>When, in this <hi>Iſle,</hi> you ſhall behold,</l>
+               <l>What's term'd, the <hi>Devills ring of gold,</hi>
+               </l>
+               <l>To be in uſe; and, then, ſhall ſee,</l>
+               <l>Both, pawn'd, and, forfeited, to be,</l>
+               <l>The <hi>richeſt-Jewell</hi> of the <hi>State;</hi>
+               </l>
+               <l>Take order, therefore, ere too late,</l>
+               <l>To ſave your credits: For, you know,</l>
+               <l>That, <hi>London</hi> is not <hi>Mexico.</hi>
+               </l>
+               <l>Or, if it were, we plainly view,</l>
+               <l>By <hi>Genoa,</hi> what may enſue.</l>
+            </lg>
+            <lg>
+               <l>When, your <hi>Betrayers</hi> ſhall divide,</l>
+               <l>And, ſeem of a <hi>contrary ſide,</hi>
+               </l>
+               <l>That they the better may contrive</l>
+               <l>Their own Deſignments; or, perceive,</l>
+               <l>What is endeavour'd, to prevent</l>
+               <l>Thoſe miſchiefs, whereto they are bent.</l>
+               <l>Then, look about you; or, be ſure,</l>
+               <l>Your ſafety you ſhall not ſecure:</l>
+               <l>But, when you heare it often ſaid,</l>
+               <l>By whom, you ſhould have been betraid,</l>
+               <l>In what, they, falſe, with you have plaid;</l>
+               <l>And, how they gave your <hi>ſpoilers</hi> aid,</l>
+               <l>With ſuch like falſhoods; and then, ſee,</l>
+               <l>Such common Fames, neglected be:</l>
+               <l>Th' <hi>accuſed</hi> countenanc'd; and, thoſe</l>
+               <l>Traduc'd, and, puniſhed, as foes,</l>
+               <l>Who, out of conſcience, and, of zeale,</l>
+               <l>To ſave this <hi>drooping Common-weale,</hi>
+               </l>
+               <l>Their knowledge, and, their feare declare;</l>
+               <l>Then, of a <hi>ſudden blow,</hi> beware.</l>
+            </lg>
+            <lg>
+               <l>When, they, who, but the other day,</l>
+               <l>As low, as in the <hi>channell,</hi> lay;</l>
+               <l>And; had nor <hi>preſence, wealth,</hi> not <hi>wit,</hi>
+               </l>
+               <l>(And, ſcarce the meaneſt of them, yet)</l>
+               <l>Your moſt <hi>pragmatick-men</hi> become,</l>
+               <l>And, places of <hi>chiefe truſt</hi> aſſume:</l>
+               <l>Your <hi>Maſtives,</hi> then, ſhall <hi>Spaniels</hi> grow;</l>
+               <l>Your <hi>Hens,</hi> and <hi>Capons,</hi> learn to crow,</l>
+               <l>Diſarme, and ſilence, all your <hi>Cocks;</hi>
+               </l>
+               <l>And, <hi>men,</hi> weare petticoats, and ſmocks.</l>
+            </lg>
+            <lg>
+               <l>When you, who, at the firſt, begun</l>
+               <l>With <hi>honeſty</hi> (and, thereby, won</l>
+               <l>Advantages) ſhall act, or plot</l>
+               <l>Ill means, to keep what you have got;</l>
+               <l>As, if the GOD, you ſeem'd to ſerve,</l>
+               <l>Could not, as well, to you preſerue,</l>
+               <l>By <hi>reall virtue,</hi> what was gain'd,</l>
+               <l>As, give it, by a <hi>virtue fain'd:</hi>
+               </l>
+               <l>Then, you ſhall thrive, as did that <hi>King,</hi>
+               </l>
+               <l>Who was or'ecome, by conquering;</l>
+               <l>Becauſe he ſerv'd falſe <hi>gods,</hi> whoſe lands</l>
+               <l>The true GOD gave into his hands:</l>
+               <l>And, you ſhall then, the difference know,</l>
+               <l>'Twixt being <hi>juſt,</hi> and ſeeming ſo.</l>
+            </lg>
+            <lg>
+               <l>When, <hi>Juſtice</hi> cuts of <hi>Hydra's</hi> heads,</l>
+               <l>And, ſees ariſing, in their ſteads,</l>
+               <l>More, and more monſtrous ones, then they</l>
+               <l>Whom Reformation par'd away:</l>
+               <l>When <hi>Tyranny</hi> beginns to varie</l>
+               <l>The form and ſhape, of <hi>Arbitrarie</hi>
+               </l>
+               <l>And <hi>willfull-rule;</hi> when, ſhe inſlaves</l>
+               <l>By mean, and deſpicable <hi>knaves;</hi>
+               </l>
+               <l>When, they who 'ſcape the <hi>Lions-pawes,</hi>
+               </l>
+               <l>The teeth of <hi>Wolves,</hi> and <hi>Harpies-clawes;</hi>
+               </l>
+               <l>Shall look for ſafety, and for eaſe,</l>
+               <l>And, then, be eat by <hi>Lice</hi> and <hi>Fleas;</hi>
+               </l>
+               <l>Or, be in pieces, rent and torne</l>
+               <l>By <hi>vermine,</hi> once, below their ſcorne;</l>
+               <l>Then; then, ſhall you begin to ſee</l>
+               <l>Your masked Foes; and who they bee</l>
+               <l>That ſought your weal: and, then, in vain</l>
+               <l>Shall wiſh for, what you now diſdaine.</l>
+            </lg>
+            <lg>
+               <l>Then, ſome, ſhall much perſwade you to</l>
+               <l>What, none but ſuch as they would do,</l>
+               <l>Who whet their knives, and cut their throats,</l>
+               <l>To cure a chollick, in their guts:</l>
+               <l>For, then ſhall they, who ſeek your harm,</l>
+               <l>Seek how to cut off your <hi>right-arm,</hi>
+               </l>
+               <l>That, of your chiefeſt guard bereft</l>
+               <l>There may be no <hi>hand</hi> but the left</l>
+               <l>To ſave your <hi>heads:</hi> And, then, perchance,</l>
+               <l>You will perceive your ignorance.</l>
+            </lg>
+            <lg>
+               <l>For, then, <hi>new troubles</hi> will begin,</l>
+               <l>Whereby, they who have blamed bin,</l>
+               <l>Shall ſuffer much: But, they ſhall beare</l>
+               <l>Moſt <hi>burthens,</hi> who moſt guilty were;</l>
+               <l>And, many, then, who now deſpiſe</l>
+               <l>Theſe <hi>Lines,</hi> will think them <hi>Prophecies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, ſhall they ſeek, and crouch, and bow,</l>
+               <l>Who are moſt proud, and ſurely, now;</l>
+               <l>Petition long, without regard;</l>
+               <l>Make <hi>prayers,</hi> which will not be heard;</l>
+               <l>
+                  <pb n="8" facs="tcp:164381:7"/>And, find as little mercy, then,</l>
+               <l>As they have ſhowne to other men.</l>
+            </lg>
+            <lg>
+               <l>They, from the <hi>ſword</hi> ſhall thither 'flie,</l>
+               <l>Where they for want of bread ſhall die;</l>
+               <l>Or, hoping <hi>Famine</hi> to avoyd,</l>
+               <l>Be, by the <hi>Peſtilence,</hi> deſtroy'd;</l>
+               <l>Or, (that they may one ſorrow ſhun)</l>
+               <l>Into a hundred miſchieves run,</l>
+               <l>And, find no reſt, till they repent</l>
+               <l>Their <hi>pride,</hi> or, meet due puniſhment.</l>
+            </lg>
+            <lg>
+               <l>Then, ſhall the <hi>principles</hi> that lurk</l>
+               <l>Within mens hearts begin to work,</l>
+               <l>Upon their humours; and, purge out</l>
+               <l>Much poyſon, now diſpers'd about</l>
+               <l>Through eve'ry Member: yet, at firſt,</l>
+               <l>That, ſhall ſeem <hi>beſt,</hi> which would be <hi>worſt,</hi>
+               </l>
+               <l>And, few men be ſo wiſe to know,</l>
+               <l>What they were beſt reſolve to do.</l>
+               <l>For, you ſhall in a <hi>Medium</hi> ſtand,</l>
+               <l>'Twixt <hi>Aegyt,</hi> and the <hi>Holy-Land,</hi>
+               </l>
+               <l>As in ſuſpenſe, whether to make</l>
+               <l>A progreſſe thither, or turn backe</l>
+               <l>To your old <hi>ſervitude,</hi> or worſe:</l>
+               <l>And, that will ſeem the ſafeſt courſe,</l>
+               <l>Unleſſe the <hi>Maſters</hi> of your <hi>School</hi>
+               </l>
+               <l>Shall take the counſell of a <hi>Fool;</hi>
+               </l>
+               <l>And be directed and advis'd</l>
+               <l>To act the thing they have deſpis'd.</l>
+            </lg>
+            <lg>
+               <l>Which if they do; your foes ſhall be</l>
+               <l>Your friends; and both be ſafe and free</l>
+               <l>From what is fear'd; and, live together</l>
+               <l>A mutuall ſtrength to one another;</l>
+               <l>Whoſe <hi>factions,</hi> if they long endure,</l>
+               <l>Will prove a <hi>plague,</hi> without a <hi>cure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, mark (oh <hi>City!</hi>) mark this well;</l>
+               <l>(Thou, who doſt all this <hi>Realm</hi> excell,</l>
+               <l>In <hi>ſin,</hi> and <hi>virtue)</hi> That, when thou</l>
+               <l>Shalt ſee thy <hi>Truſtees</hi> partiall grow</l>
+               <l>In doing <hi>Juſtice;</hi> with reſpect</l>
+               <l>Of <hi>perſons;</hi> and, with high neglect</l>
+               <l>Of <hi>truth</hi> and <hi>judgement:</hi> Then, unleſſe</l>
+               <l>The <hi>mercy</hi> and the <hi>righteouſneſſe</hi>
+               </l>
+               <l>Which thou pretendeſt, ſhall encreaſe</l>
+               <l>To fortifie thee in that <hi>peace</hi>
+               </l>
+               <l>Thou yet enjoy'ſt; and, teach thine eyes.</l>
+               <l>To ſee, wherein thy <hi>ſafety</hi> lyes:</l>
+               <l>Thou, wilt but treaſure up thy <hi>ſtore,</hi>
+               </l>
+               <l>To make thee miſerably poore;</l>
+               <l>Grow, by a <hi>new-Militia</hi> ſtrong,</l>
+               <l>To ruine thine owne ſtrength, e're long;</l>
+               <l>Draw, day by day, <hi>occaſions</hi> hither,</l>
+               <l>Of <hi>diſcords,</hi> and of <hi>plagues</hi> together;</l>
+               <l>Till all the <hi>plagues,</hi> through <hi>Britain</hi> ſpread,</l>
+               <l>In thee, be gather'd to a head;</l>
+               <l>And, break upon thee, in concluſion,</l>
+               <l>To thy diſhonour, and confuſion.</l>
+            </lg>
+            <lg>
+               <l>E're long the <hi>welfare,</hi> of this <hi>Land,</hi>
+               </l>
+               <l>Upon a tickliſh point will ſtand;</l>
+               <l>And, at that time, if you perceive</l>
+               <l>The Body repreſentative,</l>
+               <l>Act by two Factions; and, admit</l>
+               <l>Their Grandees, to invaſſall it</l>
+               <l>To their <hi>deſigns;</hi> and captivate</l>
+               <l>Their <hi>equalls:</hi> you, ſhall after that</l>
+               <l>Find little comfort, till you ſee</l>
+               <l>Extracted a <hi>third Party</hi> bee</l>
+               <l>From out of thoſe, to ſearch into</l>
+               <l>Their actions, and with courage do</l>
+               <l>As they finde cauſe: But, then, you ſhall</l>
+               <l>Perceive a <hi>turne</hi> will joy you all.</l>
+            </lg>
+            <lg>
+               <l>And to draw neerer to the <hi>But,</hi>
+               </l>
+               <l>At which, all theſe our ſhafts are ſhot,</l>
+               <l>When, thoſe two <hi>Diamonds</hi> of this <hi>Land,</hi>
+               </l>
+               <l>Which are the baſis, whereon ſtand</l>
+               <l>The <hi>publike-welfare,</hi> poliſh ſhall</l>
+               <l>Each other; and, quite rub off all</l>
+               <l>The <hi>rotten pieces, rags,</hi> and <hi>flawes,</hi>
+               </l>
+               <l>Which diſeſteem upon them drawes;</l>
+               <l>And, perfect make, in ev'ry thing,</l>
+               <l>Our ancient threefold <hi>Gimell-ring,</hi>
+               </l>
+               <l>That's lately broke; Then, you ſhall ſee</l>
+               <l>A <hi>change,</hi> that worth your praiſe will be:</l>
+               <l>And, he that gives you ſtones to crack,</l>
+               <l>(Which cauſe, perhaps, your hearts to ake)</l>
+               <l>Will, when that bleſſed ſeaſon comes,</l>
+               <l>Give you a diſh of <hi>ſugar-plumbs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, know, that while this Emperie</l>
+               <l>Neglects her <hi>Triple-Trinitie;</hi>
+               </l>
+               <l>To wit, three <hi>Realms,</hi> beneath one <hi>Throne;</hi>
+               </l>
+               <l>Within each <hi>Realm,</hi> three <hi>States in one.</hi>
+               </l>
+               <l>And, GODHEAD <hi>one,</hi> in <hi>Perſons three,</hi>
+               </l>
+               <l>You ſhall not without troubles be:</l>
+               <l>
+                  <pb n="9" facs="tcp:164381:7"/>Or, poſſibly attaine to that</l>
+               <l>Which your well-willer aimeth at,</l>
+               <l>Till, you ſhall, purely, God adore;</l>
+               <l>And to the common uſe, reſtore</l>
+               <l>At leaſt th' <hi>Eſſentials</hi> of that power</l>
+               <l>Which makes your <hi>Earthly-ſaving-Tower.</hi>
+               </l>
+               <l>Which much the <hi>ſtronger,</hi> might be made</l>
+               <l>And <hi>fairer</hi> too, if you could add</l>
+               <l>To ſtrengthen and adorn the ſame,</l>
+               <l>Some parts of the <hi>Venetian Frame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And, know; that, when a <hi>Declaration,</hi>
+               </l>
+               <l>As publike, as a <hi>Proclamation,</hi>
+               </l>
+               <l>Shall offer to conſideration,</l>
+               <l>The many failings of this <hi>Nation;</hi>
+               </l>
+               <l>If, then, you ſeek not <hi>preſervation,</hi>
+               </l>
+               <l>By <hi>prayer,</hi> and <hi>humiliation,</hi>
+               </l>
+               <l>And, by a ſerious <hi>Recantation;</hi>
+               </l>
+               <l>GOD, threatens ſudden <hi>deſolation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, <hi>much good do't you;</hi> And, yet, ſtay:</l>
+               <l>Before I ſend you quite away,</l>
+               <l>Take theſe blanch'd <hi>Almonds</hi> without <hi>ſhels,</hi>
+               </l>
+               <l>(Whereto are added nothing els</l>
+               <l>But, ſome few <hi>kernells</hi> in ther <hi>ſtones)</hi>
+               </l>
+               <l>For, though they ſeem but bitter ones,</l>
+               <l>Yet, if you taſte them, we believe</l>
+               <l>They'l prove a good preſervative.</l>
+            </lg>
+            <lg>
+               <l>Firſt, chaw on this; that, you in vain,</l>
+               <l>Seek, here a bleſſed peace to gain,</l>
+               <l>Till <hi>juſtice,</hi> and till <hi>mercy,</hi> more</l>
+               <l>Advanced be, then heretofore;</l>
+               <l>And, till you ſhall have more regard</l>
+               <l>To <hi>puniſhment,</hi> and to <hi>reward.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next, know, as vainely yoy preſume</l>
+               <l>Informed, rightly, to become</l>
+               <l>In things of <hi>faith,</hi> whilſt you depart</l>
+               <l>From what is written in the heart;</l>
+               <l>And, act contrary to the <hi>natures,</hi>
+               </l>
+               <l>And <hi>Lawes,</hi> of <hi>reaſonable creatures:</hi>
+               </l>
+               <l>For, how ſhall they who cannot learn</l>
+               <l>Things <hi>morall,</hi> things <hi>divine</hi> diſcern?</l>
+            </lg>
+            <lg>
+               <l>Next, be inform'd; ev'n you, who had</l>
+               <l>The <hi>righteouſt cauſe;</hi> that, you have made.</l>
+               <l>Defaults enough, to let all ſee</l>
+               <l>The beſt had need forgiven bee:</l>
+               <l>And, let that make your hearts inclin'd.</l>
+               <l>To pardon all, in whom you find.</l>
+               <l>That <hi>penitence</hi> which doth intend</l>
+               <l>Crimes paſt, ſincerely to amend:</l>
+               <l>Yea, if ye mean, in peace, to live,</l>
+               <l>Let all ſtrive, who ſhall moſt forgive;</l>
+               <l>That by ſo doing, all may move</l>
+               <l>Each other, to a <hi>mutuall-love;</hi>
+               </l>
+               <l>Which grace, they onely are deni'd,</l>
+               <l>Who could be true to neither ſide.</l>
+            </lg>
+            <lg>
+               <l>And, laſtly, let no more deſpights</l>
+               <l>Unto your <hi>Fundamentall-rights,</hi>
+               </l>
+               <l>And, <hi>Conſtitutions,</hi> now, be done:</l>
+               <l>For, if the <hi>Ground-works,</hi> be overthrowne,</l>
+               <l>What, can the <hi>wiſe,</hi> or juſt man do?</l>
+               <l>What to ſuſtaine it, add thereto?</l>
+               <l>Or, what will councell be, but wind,</l>
+               <l>To them, whoſe ruine is deſign'd?</l>
+            </lg>
+            <lg>
+               <l>Some, little hope is left: And, yet,</l>
+               <l>Leſt no effect, our words beget,</l>
+               <l>That, then, the <hi>times to come,</hi> may know</l>
+               <l>A <hi>Meſſenger</hi> was ſent to ſhow</l>
+               <l>What would befall this age, before</l>
+               <l>It came to paſſe. This one <hi>pearl</hi> more,</l>
+               <l>Is caſt before you, (without fear</l>
+               <l>Of ſuch, as would in pieces tear)</l>
+               <l>Obſerve it well, O <hi>Generation,</hi>
+               </l>
+               <l>Regardleſſe of thy viſitation.</l>
+            </lg>
+            <lg>
+               <l>When, you have had hard <hi>work</hi> to do,</l>
+               <l>And, added <hi>five,</hi> to <hi>forty two;</hi>
+               </l>
+               <l>You ſhall perceive a good <hi>Play</hi> ſpoil'd,</l>
+               <l>And, by unworthy <hi>Actors,</hi> foil'd;</l>
+               <l>The <hi>Scoenes</hi> tranſpos'd, the <hi>Acts</hi> confus'd;</l>
+               <l>The <hi>Poet</hi> ſhamefully abus'd:</l>
+               <l>The firſt intention of the <hi>Plot,</hi>
+               </l>
+               <l>By thoſe <hi>confuſions,</hi> quite forgot:</l>
+               <l>Yea, them, to <hi>Tragick-Acts</hi> deſign'd,</l>
+               <l>Who enter'd with a <hi>Comick-mind;</hi>
+               </l>
+               <l>And, then, what now our eye fore-ſees,</l>
+               <l>(Like him, who ſaw men walk, like trees)</l>
+               <l>Shall be diſcover'd, by that light,</l>
+               <l>Which, never doth deceive the ſight.</l>
+            </lg>
+            <lg>
+               <l>Then, they who mark it, ſhall perceive</l>
+               <l>Your <hi>Politicians,</hi> will contrive</l>
+               <l>Their own <hi>indempnity,</hi> whilſt they</l>
+               <l>Pretend for yours; that, ſo, they may</l>
+               <l>Secure themſelves, from anſwering that,</l>
+               <l>Whereby, they have abus'd the <hi>State:</hi>
+               </l>
+               <l>
+                  <pb n="10" facs="tcp:164381:8"/>And, then (unleſſe you can prevent</l>
+               <l>The fraudfulneſſe of that intent)</l>
+               <l>They, who did moſt their <hi>wealth</hi> increaſe,</l>
+               <l>By cheating you, will buy their <hi>peace;</hi>
+               </l>
+               <l>And, ſell your <hi>Freedomes,</hi> unto thoſe,</l>
+               <l>With whom, they do deſigne to cloſe.</l>
+            </lg>
+            <lg>
+               <l>Then, will ſuch <hi>Juggling-tricks</hi> be plaid,</l>
+               <l>That, <hi>publike-debts</hi> will nere be paid,</l>
+               <l>As long, as either <hi>foole,</hi> or <hi>knave,</hi>
+               </l>
+               <l>Shall have the power to <hi>give,</hi> or <hi>crave;</hi>
+               </l>
+               <l>Or, they enjoy a <hi>Truſtees place,</hi>
+               </l>
+               <l>Who have put on a <hi>Janus-face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, moſt men, plainely ſhall behold,</l>
+               <l>What, few believed, though fore-told.</l>
+               <l>The nobleſt <hi>parts,</hi> worſt plaid ſhall be,</l>
+               <l>Till, men their errors come to fee;</l>
+               <l>
+                  <hi>Good-action,</hi> ſhall be much miſtook;</l>
+               <l>
+                  <hi>Ill-meanings,</hi> will be fairely ſpoke;</l>
+               <l>Some, for ill-doing, ſhall have meeds;</l>
+               <l>Some, ſhall have blame for lawfull deeds.</l>
+               <l>Some, perſonating double parts,</l>
+               <l>With <hi>double tongues,</hi> and <hi>double hearts,</hi>
+               </l>
+               <l>Shall, from one ſide, to to'ther run,</l>
+               <l>Till they are ſcorn'd of ev'ry one.</l>
+               <l>
+                  <hi>Fools,</hi> Clownes, and very dunghill things,</l>
+               <l>Shall act the parts, of <hi>Lords,</hi> and <hi>Kings,</hi>
+               </l>
+               <l>Till, few <hi>know</hi> what to <hi>do</hi> or <hi>ſay;</hi>
+               </l>
+               <l>How to <hi>command,</hi> or to <hi>obey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Your <hi>Fountain</hi> ſhall be turn'd to <hi>puddle;</hi>
+               </l>
+               <l>Yea, all reduc'd to ſuch a <hi>huddle;</hi>
+               </l>
+               <l>That, your <hi>Ill-willers</hi> will be glad;</l>
+               <l>Your much abus'd <hi>Spectators</hi> mad;</l>
+               <l>And, in their furiouſneſſe go near</l>
+               <l>The <hi>Players</hi> rags, from them to tear;</l>
+               <l>Or, pul the <hi>Stage,</hi> and <hi>Play-houſe</hi> down;</l>
+               <l>Unleſſe a <hi>med'cine,</hi> yet, unknown,</l>
+               <l>Be ſoon appli'd: Or, on the <hi>Stage,</hi>
+               </l>
+               <l>(To ſtop the <hi>peoples</hi> riſing rage)</l>
+               <l>Some <hi>quick-deviſe,</hi> and <hi>pleaſing-ſtraine,</hi>
+               </l>
+               <l>Be brought, to charm them down againe.</l>
+            </lg>
+            <lg>
+               <l>With which <hi>Cataſtrophe,</hi> we pray,</l>
+               <l>The <hi>Tragedie,</hi> conclude you may,</l>
+               <l>And, ſee the <hi>Scoenes,</hi> and <hi>Acts,</hi> to come,</l>
+               <l>Leſſe bloody, and leſſe troubleſome;</l>
+               <l>For, if <hi>Conjectures</hi> faile him not,</l>
+               <l>Who hath conſider'd well the <hi>plot,</hi>
+               </l>
+               <l>(And, whoſe fore-warnings, none believes,</l>
+               <l>Till 'tis too late), he plaine perceives</l>
+               <l>A <hi>Storm</hi> will in the <hi>South</hi> be bred</l>
+               <l>Whilſt you a <hi>Northern-Tempeſt</hi> dread,</l>
+               <l>And conjur'd hither, by ſome <hi>Friends,</hi>
+               </l>
+               <l>Who, ſeem to have much better ends</l>
+               <l>Then they purſue: And, then, unleſſe</l>
+               <l>JUDAH, and ISR'EL ſhall confeſſe</l>
+               <l>Their <hi>ſinnes,</hi> and, reconcile, betimes;</l>
+               <l>
+                  <hi>Manaſſes</hi> pray, repent his crimes</l>
+               <l>Unfainedly (as <hi>David</hi> did,</l>
+               <l>When, from <hi>Jeruſalem</hi> he fled)</l>
+               <l>And, with full reſolution, do</l>
+               <l>What, <hi>prudence</hi> would adviſe him to:</l>
+               <l>The <hi>Babylonians</hi> will conſpire</l>
+               <l>With <hi>Amaiek;</hi> your neighbour <hi>Tyre</hi>
+               </l>
+               <l>Shall (as a <hi>ſlie ſpectator)</hi> ſtand,</l>
+               <l>To take advantage under-hand:</l>
+               <l>And, by thoſe means (when <hi>peace</hi> ſeems near)</l>
+               <l>The <hi>troubles,</hi> which did firſt appear</l>
+               <l>In <hi>thirty nine,</hi> prolong'd will be,</l>
+               <l>Till <hi>fifty two,</hi> and <hi>fifty three.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And, what <hi>new courſes</hi> will be took,</l>
+               <l>When thoſe yeares wheel about, <hi>Go look:</hi>
+               </l>
+               <l>For, here, already, we fore-ſhow</l>
+               <l>More, then you can deſerve to know;</l>
+               <l>Till, you more lovingly ſhall deale</l>
+               <l>With ſuch, as labour, for your <hi>weal;</hi>
+               </l>
+               <l>And, their <hi>eſtates,</hi> and <hi>time,</hi> have ſpent,</l>
+               <l>Your likely ruine to prevent.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ere, GOD, his wrath on</hi> Balaam <hi>wreaks,</hi>
+               </l>
+               <l>
+                  <hi>Firſt, by his</hi> Aſſe <hi>to him he ſpeaks;</hi>
+               </l>
+               <l>
+                  <hi>Then, ſhewes him, in an</hi> Angells <hi>hand,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> ſword, <hi>his courſes to withſtand;</hi>
+               </l>
+               <l>
+                  <hi>But, ſeeing, ſtill, he forward went,</hi>
+               </l>
+               <l>
+                  <hi>Quite through his heart, a ſword he ſent;</hi>
+               </l>
+               <l>
+                  <hi>And,</hi> GOD, <hi>will thus, if thus they do,</hi>
+               </l>
+               <l>
+                  <hi>Still deale with</hi> Kings, <hi>and</hi> Subjects, <hi>too:</hi>
+               </l>
+               <l>
+                  <hi>That, where his</hi> grace <hi>deſpis'd is grown,</hi>
+               </l>
+               <l>
+                  <hi>He, by his</hi> judgments, <hi>may be known.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>Fiat Voluntas Dei.</hi>
+            </p>
+            <p>GoD eXpeCreth oVr repentanCe, gIVing eXpreſſe VVarnIngs InVItIng there Vnto; haVe earLie reſpeCt therefore, Vnto sVCh VVarnIngs, and repent not ſleIghtLIe yoVr offensIVe VanItIes.</p>
+            <pb n="10" facs="tcp:164381:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
